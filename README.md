@@ -28,3 +28,6 @@ n*([permutation degree]/465). This seemed to show some of the initial logo flick
 This might be because we are essentially keeping all the other cycles the identity, 
 and only cycling through the cycle with length 465.
 They all stay the identity because they all divide the powers we use (by the way the degree is computed)
+
+https://github.com/pixelplayer14/subOptimalTransport/assets/44682324/af1f2e83-0d24-4a96-86f2-e248dfb5c086
+
